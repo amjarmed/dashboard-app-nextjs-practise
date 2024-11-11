@@ -1,3 +1,0 @@
-# main notes
-
-- ## Improving Accessibility
